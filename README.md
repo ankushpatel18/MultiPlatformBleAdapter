@@ -5,6 +5,8 @@ Middle layer between crossplatform BLE libraries ([react-native-ble-plx](https:/
 Internally uses:
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
 * [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) 
+
+Forked from https://github.com/dotintent/MultiPlatformBleAdapter and added support for android 12 and updated to lastest version of RxAndroidBle.
  
 If you'd like to use it in your own library, you should start from BleAdapter on either platform.
 ## Maintained by
